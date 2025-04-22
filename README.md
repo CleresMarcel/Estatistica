@@ -65,8 +65,7 @@ git clone [https://github.com/crislenenunes/Teste-de-hipoteses](https://github.c
 ```bash
 cd seu-repositorio
 ```
-3. **Execute no Google Colab clicando no link abaixo**  
-[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qSE1yrzI0YR1tmw0pKKcW9_s95vbivXp#scrollTo=Z6jDiyLw3lii)
+3. **Execute no Google Colab clicando no arquivo interno **  
 
 
 📊 **Exemplos de Saída**  
