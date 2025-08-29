@@ -58,8 +58,7 @@ Os exercícios do repositório realizam testes de hipóteses para médias e prop
 🚀 **Como executar o projeto**  
 1. **Clonar este repositório**  
 ```bash
-Clonar este repositório:  
-git clone [https://github.com/crislenenunes/Teste-de-hipoteses](https://github.com/crislenenunes/Teste-de-hipoteses)
+Clone este estepositorio
 ```
 2. **Acesse a pasta do projeto**  
 ```bash
